@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zZcLOZzoNe
+- 👋 Hi, I’m @zZcLOZz
 - 👀 I’m interested in Python, Lua, full-stack development, digital art, RPGs, and theater.
 - 🌱 I’m currently learning Django
 - ~~💞️ I’m looking to collaborate on ...~~
